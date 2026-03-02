@@ -1,0 +1,4 @@
+robotframework==7.*
+robotframework-seleniumlibrary==6.*
+selenium==4.18.*    # 4.10+ enables Selenium Manager
+webdriver-manager==4.*  # optional fallback if you prefer
