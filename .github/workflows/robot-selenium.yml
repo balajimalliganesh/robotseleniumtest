@@ -47,4 +47,3 @@ jobs:
           name: robot-reports
           path: reports/**
           retention-days: 14
-``
